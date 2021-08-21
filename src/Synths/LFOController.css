@@ -1,0 +1,25 @@
+#circleOff {
+    width: 25px;
+    height: 25px;
+    background: rgb(46, 3, 3);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8px;
+}
+
+#circleOn {
+    width: 25px;
+    height: 25px;
+    background: rgb(63, 236, 57);
+    border-radius: 50%;
+    margin-top: 8px;
+}
+
+.containerStatus {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
